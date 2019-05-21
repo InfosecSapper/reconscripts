@@ -10,8 +10,5 @@ The various outputs will be written to files rather than the console, which will
 
 ---
 ## Disclaimer (of sorts):
-I created this while working through Offensive Security's
-OSCP labs and it is in no way designed to be used commercially,
-professionally, maliciously or for anything other than doing
-grunt work in a lab. It's more of an exercise in Python scripting and using GitHub than it is a tool for recon. It is not designed or intended to replace or augment tools such as **sparta**, **recon-ng**, **nmap**, etc. This script was created after I spent a lot of time using the respective tools individually and manually to understand their operations, features, benefits and flaws; I simply needed a time-saving tool for a scenario in which I had limited use of existing large-scale automation tools which are more mature.  
-To be clear: this was a pet project and I am treating it as disposable. However, I will support the project if there is demand and if I feel I can learn something new, so feel free to highlight issues, suggestions, etc.
+I started this while working through Offensive Security's OSCP labs and it is in no way designed to be used commercially, professionally, maliciously or for anything other than doing grunt work in a lab. It's more of an exercise in Python programming and using GitHub than it is a tool for recon. It is neither designed nor intended to replace or augment tools such as **sparta**, **recon-ng**, **nmap**, etc. This script was created after I spent a lot of time using the respective tools individually and manually to understand their operations, features, benefits and flaws; I simply needed a time-saving tool for a scenario in which I had limited use of existing large-scale automation tools which are more mature.  
+To be clear: this is a pet project and I am treating it as disposable. However, if anyone finds it useful and gets in touch with a request or suggestion, I will give it serious thought if I feel I can learn something from the exercise and/or it will benefit a wider community.
